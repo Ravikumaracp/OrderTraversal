@@ -33,6 +33,7 @@ Uses of Inorder Traversal
 In the case of binary search trees (BST), Inorder traversal gives nodes in non-decreasing order.
 To get nodes of BST in non-increasing order, a variation of Inorder traversal where Inorder traversal is reversed can be used.
 Inorder traversal can be used to evaluate arithmetic expressions stored in expression trees.
+
 <------------------------------------------------------------------------------------------------------------------------------------>
 
 2. Preorder Traversal
