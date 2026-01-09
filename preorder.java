@@ -41,3 +41,5 @@ class InOrder{
         }
     }
 }
+
+//Time Complexcity:- O(n)
