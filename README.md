@@ -11,8 +11,9 @@ Tree traversals are broadly classified into two categories:
     Types: Inorder, Preorder, Postorder
     Breadth-First Traversal (BFT)
 
-  -> Explores nodes level by level from top to bottom.
-  
+  -> Breadth-First Traversal (BFT)
+
+    Explores nodes level by level from top to bottom.
     Type: Level Order Traversal.
     The level order traversal of the above tree is 1, 2, 3, 4, 5, 6, and 7
 
